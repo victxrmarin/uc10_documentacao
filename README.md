@@ -11,4 +11,4 @@
 
 **Conhecimentos:**
 - [Comandos GIT](COMMANDS.md)
-- [Python](url)
+- [Python](CODE.md)
