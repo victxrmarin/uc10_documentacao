@@ -10,5 +10,5 @@
 > Mas em especifico, as aulas são muito boas, com uma didatica perfeita que não é cansativa
 
 **Conhecimentos:**
-- [Comandos GIT](url)
+- [Comandos GIT](COMMANDS.md)
 - [Python](url)
