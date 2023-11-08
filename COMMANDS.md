@@ -19,4 +19,10 @@
 - Setar o email.
 - `git config --global user.email "email"`
 - Setar o nome.
-- 
+- `git config --global user.name "name"`
+
+**GIT REMOTE ADD**
+- Adicias alterações feita nos arquivos a uma área temporária.
+- `git add main.js`
+
+  
