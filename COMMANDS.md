@@ -15,14 +15,27 @@
 - Inicializa o repositorio no local de trabalho.
 - `git commit -m "First commit"`
 
-  **GIT CONFIG**
+**GIT CONFIG**
 - Setar o email.
 - `git config --global user.email "email"`
 - Setar o nome.
 - `git config --global user.name "name"`
 
 **GIT REMOTE ADD**
-- Adicias alterações feita nos arquivos a uma área temporária.
+- Adiciona alterações feita nos arquivos a uma área temporária.
 - `git add main.js`
+
+**GIT CHECKOUT**
+- ir para uma outra branch.
+- `git checkout master`
+
+**GIT CLONE**
+- Clona um repositório online para a maquina de trabalho.
+- `git clone url`
+
+**GIT PULL**
+- Busca e intera com  outro repositório ou branch local.
+- `git pull`
+
 
   
