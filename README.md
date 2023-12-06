@@ -12,3 +12,4 @@
 **Conhecimentos:**
 - [Comandos GIT](COMMANDS.md)
 - [Python](CODE.md)
+- [Licensas](LICENSE.md)
