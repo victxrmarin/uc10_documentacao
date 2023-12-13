@@ -11,5 +11,6 @@
 
 **Conhecimentos:**
 - [Comandos GIT](COMMANDS.md)
-- [Python](CODE.md)
+- [Codigo 1](CODE.md)
 - [Licensas](LICENSE.md)
+- [Codigo 2](CODE2.md)
